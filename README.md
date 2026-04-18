@@ -51,7 +51,6 @@
  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangGraph-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CrewAI-purple?style=for-the-badge"/>
