@@ -33,41 +33,27 @@ I architect systems that *do things on their own.*
 <div align="center">
 
 <table>
-<tr>
-
-<td align="center" width="220">
-<img src="https://img.shields.io/badge/🏆%204×%20Hackathon-7c3aed?style=for-the-badge&labelColor=0d1117&color=7c3aed"/>
-<br/>
-<sub><b>Competition Winner</b></sub>
-</td>
-
-<td align="center" width="220">
-<img src="https://img.shields.io/badge/🥇%20SIH%202025-8b5cf6?style=for-the-badge&labelColor=0d1117&color=8b5cf6"/>
-<br/>
-<sub><b>National Level Winner</b></sub>
-</td>
-
-<td align="center" width="220">
-<img src="https://img.shields.io/badge/🤖%20Agentic%20AI-a855f7?style=for-the-badge&labelColor=0d1117&color=a855f7"/>
-<br/>
-<sub><b>Core Focus Area</b></sub>
-</td>
-
-<td align="center" width="220">
-<img src="https://img.shields.io/badge/⚡%20LangGraph%20·%20CrewAI-c084fc?style=for-the-badge&labelColor=0d1117&color=c084fc"/>
-<br/>
-<sub><b>Agent Frameworks</b></sub>
-</td>
-
-</tr>
+  <tr>
+    <td align="center" style="border: 1.8px solid #1d9bf0; border-radius: 10px; padding: 16px 24px; background: #0d1117;">
+      <div>🏆 <strong>4× Hackathon</strong></div>
+      <div><sub>Competition Champion</sub></div>
+    </td>
+    <td align="center" style="border: 1.8px solid #1d9bf0; border-radius: 10px; padding: 16px 24px; background: #0d1117;">
+      <div>🥇 <strong>SIH 2025</strong></div>
+      <div><sub>National Level Winner</sub></div>
+    </td>
+    <td align="center" style="border: 1.8px solid #1d9bf0; border-radius: 10px; padding: 16px 24px; background: #0d1117;">
+      <div>🧠 <strong>Agentic AI</strong></div>
+      <div><sub>Core Focus Area</sub></div>
+    </td>
+    <td align="center" style="border: 1.8px solid #1d9bf0; border-radius: 10px; padding: 16px 24px; background: #0d1117;">
+      <div>⚡ <strong>LangGraph · MCP</strong></div>
+      <div><sub>Full Agent Stack</sub></div>
+    </td>
+  </tr>
 </table>
 
-<br/>
-
-<!-- subtle animated divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=2&section=header&animation=fadeIn" width="60%"/>
-
-</div>
+<br/><br/>
 
 <!-- Snake animation — continuously running -->
 <picture>
