@@ -2,15 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rishivel%20S&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20the%20Agentic%20Future&descSize=18&descAlignY=60&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-</div>
-
-<div align="center">
-
-```
-◆  Multi-Agent Orchestration  ◆  LLM Systems  ◆  Backend Architecture  ◆  Hackathons  ◆
-```
+<!-- Continuously running typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Multi-Agent+Orchestration+Engineer;LLM+Systems+Architect;4%C3%97+Hackathon+Winner+%7C+SIH+Winner;Backend+%26+Agentic+AI+Builder;Always+building+something+that+thinks..." alt="Typing SVG" />
 
 </div>
+
+<br/>
 
 ---
 
@@ -20,13 +17,10 @@
 
 2nd-year AI & DS student engineering the next layer of intelligent systems — where agents think, plan, and act autonomously.
 
-I don't just build projects.  
+I don't just build projects.
 I architect systems that *do things on their own.*
 
-**Currently:**
-- Deep in multi-agent orchestration patterns
-- Building production-grade AI automation pipelines
-- Studying distributed backend systems at scale
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=7C3AED&width=380&lines=Currently+%E2%86%92+Multi-agent+orchestration+patterns;Currently+%E2%86%92+Production-grade+AI+pipelines;Currently+%E2%86%92+Distributed+backend+at+scale" alt="Currently" />
 
 **Open to:** Agentic system collabs, AI-native product ideas, ambitious hackathon teams
 
@@ -38,10 +32,35 @@ I architect systems that *do things on their own.*
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| 🏆 **4× Hackathon Winner** | 🥇 **SIH 2024 Winner** |
-| 🤖 **Agentic AI Builder** | ⚡ **LangGraph · CrewAI · MCP** |
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-%F0%9F%8F%86%204%C3%97%20Hackathon-7c3aed?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>Competition Winner</b></sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-%F0%9F%A5%87%20SIH%202024-7c3aed?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>National Level Winner</b></sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-%F0%9F%A4%96%20Agentic%20AI-7c3aed?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>Core Focus Area</b></sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-%E2%9A%A1%20LangGraph%20%C2%B7%20CrewAI-7c3aed?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>Agent Frameworks</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Snake animation — continuously running -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RISHIVELS/RISHIVELS/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RISHIVELS/RISHIVELS/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/RISHIVELS/RISHIVELS/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
@@ -49,70 +68,91 @@ I architect systems that *do things on their own.*
 
 ### Tech Arsenal
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=a78bfa)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=a78bfa)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=a78bfa)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=a78bfa)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=a78bfa)
+**— Languages —**
 
-**AI / Agent Ecosystem**
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=a78bfa)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=a78bfa)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=a78bfa)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=a78bfa)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=a78bfa)
+![Markdown](https://img.shields.io/badge/Markdown-0d1117?style=for-the-badge&logo=markdown&logoColor=a78bfa)
 
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logoColor=a78bfa&logo=chainlink)
-![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logoColor=a78bfa&logo=graph)
-![CrewAI](https://img.shields.io/badge/CrewAI-0d1117?style=flat-square&logoColor=a78bfa&logo=robot)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=a78bfa)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-0d1117?style=flat-square&logoColor=a78bfa)
+<br/>
 
-**Backend & APIs**
+**— AI / Agent Ecosystem —**
 
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=a78bfa)
-![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=a78bfa)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=a78bfa)
-![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=a78bfa)
-![Swagger](https://img.shields.io/badge/Swagger-0d1117?style=flat-square&logo=swagger&logoColor=a78bfa)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=a78bfa)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=graph&logoColor=a78bfa)
+![CrewAI](https://img.shields.io/badge/CrewAI-0d1117?style=for-the-badge&logoColor=a78bfa)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=a78bfa)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-0d1117?style=for-the-badge&logoColor=a78bfa)
 
-**Databases & Cloud**
+<br/>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=a78bfa)
-![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=a78bfa)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=a78bfa)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=a78bfa)
-![Render](https://img.shields.io/badge/Render-0d1117?style=flat-square&logo=render&logoColor=a78bfa)
+**— Backend & APIs —**
 
-**Frontend**
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=a78bfa)
+![Express](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=a78bfa)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=a78bfa)
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=a78bfa)
+![Swagger](https://img.shields.io/badge/Swagger-0d1117?style=for-the-badge&logo=swagger&logoColor=a78bfa)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=a78bfa)
+![NPM](https://img.shields.io/badge/NPM-0d1117?style=for-the-badge&logo=npm&logoColor=a78bfa)
 
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=a78bfa)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=a78bfa)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-0d1117?style=flat-square&logo=daisyui&logoColor=a78bfa)
+<br/>
 
-**ML & Data**
+**— Databases & Cloud —**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=a78bfa)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=a78bfa)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&logoColor=a78bfa)
-![Anaconda](https://img.shields.io/badge/Anaconda-0d1117?style=flat-square&logo=anaconda&logoColor=a78bfa)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=a78bfa)
+![Mongoose](https://img.shields.io/badge/Mongoose-0d1117?style=for-the-badge&logo=mongoose&logoColor=a78bfa)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=a78bfa)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=a78bfa)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=a78bfa)
+![Render](https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=a78bfa)
+![Netlify](https://img.shields.io/badge/Netlify-0d1117?style=for-the-badge&logo=netlify&logoColor=a78bfa)
 
-**Tooling**
+<br/>
 
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=a78bfa)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=a78bfa)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=a78bfa)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=a78bfa)
+**— Frontend —**
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=a78bfa)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=a78bfa)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-0d1117?style=for-the-badge&logo=daisyui&logoColor=a78bfa)
+
+<br/>
+
+**— ML & Data Science —**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=a78bfa)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=a78bfa)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logoColor=a78bfa)
+![Anaconda](https://img.shields.io/badge/Anaconda-0d1117?style=for-the-badge&logo=anaconda&logoColor=a78bfa)
+
+<br/>
+
+**— DevOps & Tooling —**
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=a78bfa)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=a78bfa)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=a78bfa)
+![Nodemon](https://img.shields.io/badge/Nodemon-0d1117?style=for-the-badge&logo=nodemon&logoColor=a78bfa)
+
+</div>
 
 ---
 
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RISHIVELS&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIVELS&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RISHIVELS&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true" height="170"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIVELS&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=RISHIVELS&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="420"/>
+  <img src="https://streak-stats.demolab.com/?user=RISHIVELS&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="460"/>
 </div>
 
 ---
@@ -135,6 +175,8 @@ I architect systems that *do things on their own.*
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 *"The best engineers don't just write code — they design systems that think."*
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RISHIVELS&color=7c3aed&style=flat-square&label=Profile+Views)
 
