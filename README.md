@@ -32,11 +32,28 @@ I architect systems that *do things on their own.*
 
 <div align="center">
 
-<!-- 4 cards in one row — each a capsule-render rect with twinkling shimmer animation -->
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-%F0%9F%8F%86%204%C3%97%20Hackathon-7c3aed?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>Competition Winner</b></sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-%F0%9F%A5%87%20SIH%202025-7c3aed?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>National Level Winner</b></sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-%F0%9F%A4%96%20Agentic%20AI-7c3aed?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>Core Focus Area</b></sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-%E2%9A%A1%20LangGraph%20%C2%B7%20CrewAI-7c3aed?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>Agent Frameworks</b></sub>
+</td>
+</tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,50:4c1d95,100:1a0533&height=90&text=%F0%9F%8F%86%20%204%C3%97%20Hackathon&fontSize=20&fontColor=ffffff&fontAlignY=42&fontAlign=50&animation=twinkling&desc=Competition%20Champion&descSize=12&descAlignY=68&descColor=ddd6fe&width=220" />&nbsp;<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,50:4c1d95,100:1a0533&height=90&text=%F0%9F%A5%87%20%20SIH%202025&fontSize=20&fontColor=ffffff&fontAlignY=42&fontAlign=50&animation=twinkling&desc=National%20Level%20Winner&descSize=12&descAlignY=68&descColor=ddd6fe&width=220" />&nbsp;<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,50:4c1d95,100:1a0533&height=90&text=%F0%9F%A4%96%20%20Agentic%20AI&fontSize=20&fontColor=ffffff&fontAlignY=42&fontAlign=50&animation=twinkling&desc=Core%20Focus%20Area&descSize=12&descAlignY=68&descColor=ddd6fe&width=220" />&nbsp;<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,50:4c1d95,100:1a0533&height=90&text=%E2%9A%A1%20LangGraph%20%C2%B7%20MCP&fontSize=17&fontColor=ffffff&fontAlignY=42&fontAlign=50&animation=twinkling&desc=Full%20Agent%20Stack&descSize=12&descAlignY=68&descColor=ddd6fe&width=220" />
-
-<br/><br/>
+<br/>
 
 <!-- Snake animation — continuously running -->
 <picture>
@@ -129,23 +146,13 @@ I architect systems that *do things on their own.*
 ### GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RISHIVELS&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true" height="170"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIVELS&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170"/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=3000&color=7C3AED&center=true&vCenter=true&width=500&height=30&lines=%E2%94%80%E2%94%80+Loading+contribution+data...+%E2%94%80%E2%94%80;%E2%94%80%E2%94%80+Commits+%C2%B7+Streaks+%C2%B7+Languages+%E2%94%80%E2%94%80;%E2%94%80%E2%94%80+Here%27s+what+I%27ve+been+shipping+%E2%94%80%E2%94%80" alt="Stats intro" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=RISHIVELS&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIVELS&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=RISHIVELS&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="460"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=RISHIVELS&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=RISHIVELS&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="460"/>
 </div>
 
 ---
