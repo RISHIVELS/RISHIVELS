@@ -48,10 +48,10 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
   <!-- Icons (Aligned properly now) -->
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="35"/>
-  <img src="https://img.icons8.com/color/48/git.png" width="35"/>
-  <img src="https://img.icons8.com/color/48/mongoose.png" width="35"/>
-
+ <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangGraph-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CrewAI-purple?style=for-the-badge"/>
