@@ -32,17 +32,9 @@ I architect systems that *do things on their own.*
 
 <div align="center">
 
-<!-- Glowing animated highlight cards via capsule-render — each pulses with colorOn animation -->
+<!-- 4 cards in one row — each a capsule-render rect with twinkling shimmer animation -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0764,100:6d28d9&height=80&text=%F0%9F%8F%86%20%204%C3%97%20Hackathon%20Winner&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling&desc=Competition%20Champion&descSize=13&descAlignY=80&descColor=c4b5fd&width=280" />
-&nbsp;
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0764,100:6d28d9&height=80&text=%F0%9F%A5%87%20%20SIH%202024%20Winner&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling&desc=National%20Level%20Recognition&descSize=13&descAlignY=80&descColor=c4b5fd&width=280" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0764,100:6d28d9&height=80&text=%F0%9F%A4%96%20%20Agentic%20AI%20Builder&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling&desc=Systems%20That%20Think%20%26%20Act&descSize=13&descAlignY=80&descColor=c4b5fd&width=280" />
-&nbsp;
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0764,100:6d28d9&height=80&text=%E2%9A%A1%20%20LangGraph%20%C2%B7%20CrewAI%20%C2%B7%20MCP&fontSize=19&fontColor=ffffff&fontAlignY=55&animation=twinkling&desc=Full%20Agent%20Stack&descSize=13&descAlignY=80&descColor=c4b5fd&width=280" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,50:4c1d95,100:1a0533&height=90&text=%F0%9F%8F%86%20%204%C3%97%20Hackathon&fontSize=20&fontColor=ffffff&fontAlignY=42&fontAlign=50&animation=twinkling&desc=Competition%20Champion&descSize=12&descAlignY=68&descColor=ddd6fe&width=220" />&nbsp;<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,50:4c1d95,100:1a0533&height=90&text=%F0%9F%A5%87%20%20SIH%202025&fontSize=20&fontColor=ffffff&fontAlignY=42&fontAlign=50&animation=twinkling&desc=National%20Level%20Winner&descSize=12&descAlignY=68&descColor=ddd6fe&width=220" />&nbsp;<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,50:4c1d95,100:1a0533&height=90&text=%F0%9F%A4%96%20%20Agentic%20AI&fontSize=20&fontColor=ffffff&fontAlignY=42&fontAlign=50&animation=twinkling&desc=Core%20Focus%20Area&descSize=12&descAlignY=68&descColor=ddd6fe&width=220" />&nbsp;<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,50:4c1d95,100:1a0533&height=90&text=%E2%9A%A1%20LangGraph%20%C2%B7%20MCP&fontSize=17&fontColor=ffffff&fontAlignY=42&fontAlign=50&animation=twinkling&desc=Full%20Agent%20Stack&descSize=12&descAlignY=68&descColor=ddd6fe&width=220" />
 
 <br/><br/>
 
@@ -142,13 +134,13 @@ I architect systems that *do things on their own.*
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RISHIVELS&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RISHIVELS&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true" height="170"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIVELS&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=RISHIVELS&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9" width="480"/>
+<img src="https://streak-stats.demolab.com/?user=RISHIVELS&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="460"/>
 
 <br/><br/>
 
