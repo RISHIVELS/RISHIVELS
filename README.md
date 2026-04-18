@@ -93,6 +93,7 @@ I architect systems that _do things on their own._
 ![OpenAISdk](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=a78bfa)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-0d1117?style=for-the-badge&logoColor=a78bfa)
 ![n8n](https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=a78bfa)
+![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logoColor=a78bfa)
 
 <br/>
 
