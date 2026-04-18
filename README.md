@@ -32,11 +32,33 @@ I architect systems that _do things on their own._
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RISHIVELS/RISHIVELS/main/assets/badge-hackathon.svg" width="220" height="90"/> &nbsp;
-<img src="https://raw.githubusercontent.com/RISHIVELS/RISHIVELS/main/assets/badge-sih.svg" width="220" height="90"/> &nbsp;
-<img src="https://raw.githubusercontent.com/RISHIVELS/RISHIVELS/main/assets/badge-agentic.svg" width="220" height="90"/> &nbsp;
-<img src="https://raw.githubusercontent.com/RISHIVELS/RISHIVELS/main/assets/badge-langgraph.svg" width="220" height="90"/>
+### Highlights
 
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+  <img src="https://raw.githubusercontent.com/RISHIVELS/RISHIVELS/main/assets/badge-hackathon.svg" width="220"/>
+</td>
+
+<td align="center">
+  <img src="https://raw.githubusercontent.com/RISHIVELS/RISHIVELS/main/assets/badge-sih.svg" width="220"/>
+</td>
+
+<td align="center">
+  <img src="https://raw.githubusercontent.com/RISHIVELS/RISHIVELS/main/assets/badge-agentic.svg" width="220"/>
+</td>
+
+<td align="center">
+  <img src="https://raw.githubusercontent.com/RISHIVELS/RISHIVELS/main/assets/badge-langgraph.svg" width="220"/>
+</td>
+
+</tr>
+</table>
+
+</div>
 <br/><br/>
 
 <!-- Snake animation — continuously running -->
