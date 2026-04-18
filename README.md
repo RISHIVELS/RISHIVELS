@@ -32,8 +32,6 @@ I architect systems that _do things on their own._
 
 <div align="center">
 
-### Highlights
-
 <div align="center">
 
 <table>
