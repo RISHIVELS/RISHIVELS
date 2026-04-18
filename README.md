@@ -90,7 +90,7 @@ I architect systems that _do things on their own._
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=a78bfa)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=graph&logoColor=a78bfa)
 ![CrewAI](https://img.shields.io/badge/CrewAI-0d1117?style=for-the-badge&logoColor=a78bfa)
-![OpenAISdk](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=a78bfa)
+![OpenAISdk](https://img.shields.io/badge/OpenAISdk-0d1117?style=for-the-badge&logo=openai&logoColor=a78bfa)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-0d1117?style=for-the-badge&logoColor=a78bfa)
 ![n8n](https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=a78bfa)
 ![RAG](https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logoColor=a78bfa)
