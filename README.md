@@ -1,5 +1,5 @@
-# 💫 About Me:
-🎓 2nd-year CS student obsessed with building **Agentic AI systems** — deep in multi-agent orchestration & intelligent automation<br>🏆 **4× Hackathon Winner** + **SIH Winner** — ask me about agentic systems, backend architecture, or winning hackathons<br>🤝 Open to collaborating on **agentic pipelines**, AI-native products & ambitious ideas that push boundaries<br>⚙️ Sharpening my craft in **LLM orchestration**, backend systems & production-grade AI workflows<br>🚀 On a mission to engineer at **Google-level scale** — one agent at a time
+# Hi there It's me Rishivel:
+🎓 2nd-year AI & DS student obsessed with building **Agentic AI systems** — deep in multi-agent orchestration & intelligent automation<br>🏆 **4× Hackathon Winner** + **SIH Winner** — ask me about agentic systems, backend architecture, or winning hackathons<br>🤝 Open to collaborating on **agentic pipelines**, AI-native products & ambitious ideas that push boundaries<br>⚙️ Sharpening my craft in **LLM orchestration**, backend systems & production-grade AI workflows<br>🚀 On a mission to engineer at **Google-level scale** — one agent at a time
 
 
 ## 🌐 Socials:
