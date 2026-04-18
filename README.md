@@ -32,40 +32,26 @@ I architect systems that *do things on their own.*
 
 <div align="center">
 
-<table>
-<tr>
+<!-- Glowing animated highlight cards via capsule-render — each pulses with colorOn animation -->
 
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/🏆%204×%20Hackathon-8A2BE2?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
-<br/>
-<sub><b>Competition Winner</b></sub>
-</td>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0764,100:6d28d9&height=80&text=%F0%9F%8F%86%20%204%C3%97%20Hackathon%20Winner&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling&desc=Competition%20Champion&descSize=13&descAlignY=80&descColor=c4b5fd&width=280" />
+&nbsp;
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0764,100:6d28d9&height=80&text=%F0%9F%A5%87%20%20SIH%202024%20Winner&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling&desc=National%20Level%20Recognition&descSize=13&descAlignY=80&descColor=c4b5fd&width=280" />
 
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/🥇%20SIH%202025-7C3AED?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
-<br/>
-<sub><b>National Level Winner</b></sub>
-</td>
+<br/><br/>
 
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/🤖%20Agentic%20AI-9333EA?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
-<br/>
-<sub><b>Core Focus Area</b></sub>
-</td>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0764,100:6d28d9&height=80&text=%F0%9F%A4%96%20%20Agentic%20AI%20Builder&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling&desc=Systems%20That%20Think%20%26%20Act&descSize=13&descAlignY=80&descColor=c4b5fd&width=280" />
+&nbsp;
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b0764,100:6d28d9&height=80&text=%E2%9A%A1%20%20LangGraph%20%C2%B7%20CrewAI%20%C2%B7%20MCP&fontSize=19&fontColor=ffffff&fontAlignY=55&animation=twinkling&desc=Full%20Agent%20Stack&descSize=13&descAlignY=80&descColor=c4b5fd&width=280" />
 
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/⚡%20LangGraph%20·%20CrewAI-A855F7?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
-<br/>
-<sub><b>Agent Frameworks</b></sub>
-</td>
+<br/><br/>
 
-</tr>
-</table>
-
-<br/>
-
-<!-- subtle glowing divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="60%"/>
+<!-- Snake animation — continuously running -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RISHIVELS/RISHIVELS/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RISHIVELS/RISHIVELS/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/RISHIVELS/RISHIVELS/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
@@ -151,13 +137,23 @@ I architect systems that *do things on their own.*
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RISHIVELS&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIVELS&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=RISHIVELS&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="460"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=3000&color=7C3AED&center=true&vCenter=true&width=500&height=30&lines=%E2%94%80%E2%94%80+Loading+contribution+data...+%E2%94%80%E2%94%80;%E2%94%80%E2%94%80+Commits+%C2%B7+Streaks+%C2%B7+Languages+%E2%94%80%E2%94%80;%E2%94%80%E2%94%80+Here%27s+what+I%27ve+been+shipping+%E2%94%80%E2%94%80" alt="Stats intro" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=RISHIVELS&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&rank_icon=github" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIVELS&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=RISHIVELS&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9" width="480"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=RISHIVELS&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+
 </div>
 
 ---
