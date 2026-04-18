@@ -48,16 +48,19 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
   <!-- Icons (Aligned properly now) -->
-  <img src="https://img.icons8.com/fluency-systems-filled/48/model-context-protocol.png" width="35"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="35"/>
   <img src="https://img.icons8.com/color/48/git.png" width="35"/>
   <img src="https://img.icons8.com/color/48/mongoose.png" width="35"/>
 
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=RISHIVELS&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=RISHIVELS&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RISHIVELS&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Stats:
 
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=RISHIVELS&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=RISHIVELS&theme=radical&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RISHIVELS&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
