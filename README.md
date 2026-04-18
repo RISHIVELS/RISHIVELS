@@ -18,7 +18,7 @@
 2nd-year AI & DS student engineering the next layer of intelligent systems — where agents think, plan, and act autonomously.
 
 I don't just build projects.
-I architect systems that *do things on their own.*
+I architect systems that _do things on their own._
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=7C3AED&width=380&lines=Currently+%E2%86%92+Multi-agent+orchestration+patterns;Currently+%E2%86%92+Production-grade+AI+pipelines;Currently+%E2%86%92+Distributed+backend+at+scale" alt="Currently" />
 
@@ -32,26 +32,10 @@ I architect systems that *do things on their own.*
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" style="border: 1.8px solid #1d9bf0; border-radius: 10px; padding: 16px 24px; background: #0d1117;">
-      <div>🏆 <strong>4× Hackathon</strong></div>
-      <div><sub>Competition Champion</sub></div>
-    </td>
-    <td align="center" style="border: 1.8px solid #1d9bf0; border-radius: 10px; padding: 16px 24px; background: #0d1117;">
-      <div>🥇 <strong>SIH 2025</strong></div>
-      <div><sub>National Level Winner</sub></div>
-    </td>
-    <td align="center" style="border: 1.8px solid #1d9bf0; border-radius: 10px; padding: 16px 24px; background: #0d1117;">
-      <div>🧠 <strong>Agentic AI</strong></div>
-      <div><sub>Core Focus Area</sub></div>
-    </td>
-    <td align="center" style="border: 1.8px solid #1d9bf0; border-radius: 10px; padding: 16px 24px; background: #0d1117;">
-      <div>⚡ <strong>LangGraph · MCP</strong></div>
-      <div><sub>Full Agent Stack</sub></div>
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/RISHIVELS/RISHIVELS/main/assets/badge-hackathon.svg" width="220" height="90"/> &nbsp;
+<img src="https://raw.githubusercontent.com/RISHIVELS/RISHIVELS/main/assets/badge-sih.svg" width="220" height="90"/> &nbsp;
+<img src="https://raw.githubusercontent.com/RISHIVELS/RISHIVELS/main/assets/badge-agentic.svg" width="220" height="90"/> &nbsp;
+<img src="https://raw.githubusercontent.com/RISHIVELS/RISHIVELS/main/assets/badge-langgraph.svg" width="220" height="90"/>
 
 <br/><br/>
 
@@ -174,7 +158,7 @@ I architect systems that *do things on their own.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-*"The best engineers don't just write code — they design systems that think."*
+_"The best engineers don't just write code — they design systems that think."_
 
 <br/>
 
