@@ -39,7 +39,7 @@ I architect systems that *do things on their own.*
 <br/><sub><b>Competition Winner</b></sub>
 </td>
 <td align="center" width="200">
-<img src="https://img.shields.io/badge/-%F0%9F%A5%87%20SIH%202024-7c3aed?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/-%F0%9F%A5%87%20SIH%202025-7c3aed?style=for-the-badge&logoColor=white"/>
 <br/><sub><b>National Level Winner</b></sub>
 </td>
 <td align="center" width="200">
