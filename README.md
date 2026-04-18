@@ -32,21 +32,28 @@ I architect systems that *do things on their own.*
 
 <div align="center">
 
-<!-- Animated ticker — cycles through each achievement one at a time, never stops -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1800&color=A78BFA&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%8F%86+4%C3%97+Hackathon+Winner+%E2%80%94+Competition+Finalist+to+Champion;%F0%9F%A5%87+SIH+2024+Winner+%E2%80%94+National+Level+Recognition;%F0%9F%A4%96+Agentic+AI+Builder+%E2%80%94+Systems+That+Think+%26+Act;%E2%9A%A1+LangGraph+%C2%B7+CrewAI+%C2%B7+MCP+%E2%80%94+Full+Agent+Stack;%F0%9F%9A%80+On+a+mission+to+engineer+at+Google-level+scale" alt="Highlights Ticker"/>
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-%F0%9F%8F%86%204%C3%97%20Hackathon-7c3aed?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>Competition Winner</b></sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-%F0%9F%A5%87%20SIH%202025-7c3aed?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>National Level Winner</b></sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-%F0%9F%A4%96%20Agentic%20AI-7c3aed?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>Core Focus Area</b></sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-%E2%9A%A1%20LangGraph%20%C2%B7%20CrewAI-7c3aed?style=for-the-badge&logoColor=white"/>
+<br/><sub><b>Agent Frameworks</b></sub>
+</td>
+</tr>
+</table>
 
-<br/><br/>
-
-<!-- Static summary row — breathing room, not congested -->
-<img src="https://img.shields.io/badge/4%C3%97%20Hackathon%20Winner-1a1a2e?style=flat-square&logoColor=a78bfa&color=1a1a2e&labelColor=7c3aed&label=%F0%9F%8F%86"/>
-&nbsp;
-<img src="https://img.shields.io/badge/SIH%202024%20Winner-1a1a2e?style=flat-square&color=1a1a2e&labelColor=7c3aed&label=%F0%9F%A5%87"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Agentic%20AI%20Builder-1a1a2e?style=flat-square&color=1a1a2e&labelColor=7c3aed&label=%F0%9F%A4%96"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LangGraph%20%C2%B7%20CrewAI%20%C2%B7%20MCP-1a1a2e?style=flat-square&color=1a1a2e&labelColor=7c3aed&label=%E2%9A%A1"/>
-
-<br/><br/>
+<br/>
 
 <!-- Snake animation — continuously running -->
 <picture>
@@ -139,25 +146,13 @@ I architect systems that *do things on their own.*
 ### GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RISHIVELS&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true" height="170"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIVELS&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170"/>
+</div>
 
-<!-- Animated section header — draws attention as viewer scrolls down -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=3000&color=7C3AED&center=true&vCenter=true&width=500&height=30&lines=%E2%94%80%E2%94%80+Loading+contribution+data...+%E2%94%80%E2%94%80;%E2%94%80%E2%94%80+Commits+%C2%B7+Streaks+%C2%B7+Languages+%E2%94%80%E2%94%80;%E2%94%80%E2%94%80+Here%27s+what+I%27ve+been+shipping+%E2%94%80%E2%94%80" alt="Stats intro" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=RISHIVELS&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&rank_icon=github" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIVELS&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=RISHIVELS&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9" width="480"/>
-
-<br/><br/>
-
-<!-- Trophies — animated capsule render intro before it -->
-<img src="https://github-profile-trophy.vercel.app/?username=RISHIVELS&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=RISHIVELS&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="460"/>
 </div>
 
 ---
