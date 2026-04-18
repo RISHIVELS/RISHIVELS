@@ -34,33 +34,38 @@ I architect systems that *do things on their own.*
 
 <table>
 <tr>
+
 <td align="center" width="200">
-<img src="https://img.shields.io/badge/-%F0%9F%8F%86%204%C3%97%20Hackathon-7c3aed?style=for-the-badge&logoColor=white"/>
-<br/><sub><b>Competition Winner</b></sub>
+<img src="https://img.shields.io/badge/🏆%204×%20Hackathon-8A2BE2?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+<br/>
+<sub><b>Competition Winner</b></sub>
 </td>
+
 <td align="center" width="200">
-<img src="https://img.shields.io/badge/-%F0%9F%A5%87%20SIH%202025-7c3aed?style=for-the-badge&logoColor=white"/>
-<br/><sub><b>National Level Winner</b></sub>
+<img src="https://img.shields.io/badge/🥇%20SIH%202025-7C3AED?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+<br/>
+<sub><b>National Level Winner</b></sub>
 </td>
+
 <td align="center" width="200">
-<img src="https://img.shields.io/badge/-%F0%9F%A4%96%20Agentic%20AI-7c3aed?style=for-the-badge&logoColor=white"/>
-<br/><sub><b>Core Focus Area</b></sub>
+<img src="https://img.shields.io/badge/🤖%20Agentic%20AI-9333EA?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+<br/>
+<sub><b>Core Focus Area</b></sub>
 </td>
+
 <td align="center" width="200">
-<img src="https://img.shields.io/badge/-%E2%9A%A1%20LangGraph%20%C2%B7%20CrewAI-7c3aed?style=for-the-badge&logoColor=white"/>
-<br/><sub><b>Agent Frameworks</b></sub>
+<img src="https://img.shields.io/badge/⚡%20LangGraph%20·%20CrewAI-A855F7?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+<br/>
+<sub><b>Agent Frameworks</b></sub>
 </td>
+
 </tr>
 </table>
 
 <br/>
 
-<!-- Snake animation — continuously running -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RISHIVELS/RISHIVELS/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RISHIVELS/RISHIVELS/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/RISHIVELS/RISHIVELS/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<!-- subtle glowing divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true" width="60%"/>
 
 </div>
 
