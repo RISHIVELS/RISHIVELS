@@ -1,18 +1,9 @@
 <div align="center">
 
-<!-- DARK THEME HEADER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rishivel%20S&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20the%20Agentic%20Future&descSize=18&descAlignY=60&descColor=a78bfa&animation=fadeIn"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ede9fe,50:ddd6fe,100:c4b5fd&height=200&section=header&text=Rishivel%20S&fontSize=52&fontColor=1e1b4b&fontAlignY=38&desc=Building%20the%20Agentic%20Future&descSize=18&descAlignY=60&descColor=6d28d9&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rishivel%20S&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20the%20Agentic%20Future&descSize=18&descAlignY=60&descColor=a78bfa&animation=fadeIn" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rishivel%20S&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20the%20Agentic%20Future&descSize=18&descAlignY=60&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-<!-- Typing animation — dark & light -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Multi-Agent+Orchestration+Engineer;LLM+Systems+Architect;4%C3%97+Hackathon+Winner+%7C+SIH+Winner;Backend+%26+Agentic+AI+Builder;Always+building+something+that+thinks..."/>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6d28d9&center=true&vCenter=true&width=600&lines=Multi-Agent+Orchestration+Engineer;LLM+Systems+Architect;4%C3%97+Hackathon+Winner+%7C+SIH+Winner;Backend+%26+Agentic+AI+Builder;Always+building+something+that+thinks..."/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Multi-Agent+Orchestration+Engineer;LLM+Systems+Architect;4%C3%97+Hackathon+Winner+%7C+SIH+Winner;Backend+%26+Agentic+AI+Builder;Always+building+something+that+thinks..." alt="Typing SVG" />
-</picture>
+<!-- Continuously running typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Multi-Agent+Orchestration+Engineer;LLM+Systems+Architect;4%C3%97+Hackathon+Winner+%7C+SIH+Winner;Backend+%26+Agentic+AI+Builder;Always+building+something+that+thinks..." alt="Typing SVG" />
 
 </div>
 
@@ -29,11 +20,7 @@
 I don't just build projects.
 I architect systems that _do things on their own._
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=7C3AED&width=380&lines=Currently+%E2%86%92+Multi-agent+orchestration+patterns;Currently+%E2%86%92+Production-grade+AI+pipelines;Currently+%E2%86%92+Distributed+backend+at+scale"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=4f46e5&width=380&lines=Currently+%E2%86%92+Multi-agent+orchestration+patterns;Currently+%E2%86%92+Production-grade+AI+pipelines;Currently+%E2%86%92+Distributed+backend+at+scale"/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=7C3AED&width=380&lines=Currently+%E2%86%92+Multi-agent+orchestration+patterns;Currently+%E2%86%92+Production-grade+AI+pipelines;Currently+%E2%86%92+Distributed+backend+at+scale" alt="Currently" />
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=2000&color=7C3AED&width=380&lines=Currently+%E2%86%92+Multi-agent+orchestration+patterns;Currently+%E2%86%92+Production-grade+AI+pipelines;Currently+%E2%86%92+Distributed+backend+at+scale" alt="Currently" />
 
 **Open to:** Agentic system collabs, AI-native product ideas, ambitious hackathon teams
 
@@ -42,6 +29,8 @@ I architect systems that _do things on their own._
 ---
 
 ### Highlights
+
+<div align="center">
 
 <div align="center">
 
@@ -67,9 +56,10 @@ I architect systems that _do things on their own._
 </tr>
 </table>
 
+</div>
 <br/><br/>
 
-<!-- Snake animation — dark/light adaptive -->
+<!-- Snake animation — continuously running -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RISHIVELS/RISHIVELS/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RISHIVELS/RISHIVELS/output/github-contribution-grid-snake.svg"/>
@@ -160,30 +150,13 @@ I architect systems that _do things on their own._
 ### GitHub Stats
 
 <div align="center">
-
-<!-- Stats — light theme uses light card style -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RISHIVELS&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RISHIVELS&show_icons=true&theme=buefy&hide_border=true&title_color=7c3aed&icon_color=6d28d9&text_color=1e1b4b&include_all_commits=true"/>
   <img src="https://github-readme-stats.vercel.app/api?username=RISHIVELS&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true" height="170"/>
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIVELS&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIVELS&layout=compact&theme=buefy&hide_border=true&title_color=7c3aed&text_color=1e1b4b"/>
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHIVELS&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="170"/>
-</picture>
-
 </div>
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=RISHIVELS&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=RISHIVELS&theme=default&hide_border=true&ring=7c3aed&fire=6d28d9&currStreakLabel=7c3aed"/>
   <img src="https://streak-stats.demolab.com/?user=RISHIVELS&theme=midnight-purple&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" width="460"/>
-</picture>
-
 </div>
 
 ---
@@ -203,12 +176,7 @@ I architect systems that _do things on their own._
 
 <div align="center">
 
-<!-- Footer — adaptive -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:c4b5fd,50:ddd6fe,100:ede9fe&height=100&section=footer&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 _"The best engineers don't just write code — they design systems that think."_
 
