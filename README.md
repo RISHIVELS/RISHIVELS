@@ -52,6 +52,12 @@
   <img src="https://img.icons8.com/color/48/git.png" width="35"/>
   <img src="https://img.icons8.com/color/48/mongoose.png" width="35"/>
 
+  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CrewAI-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
 </div>
 
 ## 📊 GitHub Stats:
